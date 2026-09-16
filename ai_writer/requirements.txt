@@ -1,0 +1,5 @@
+streamlit>=1.62
+google-genai>=2.20
+python-dotenv>=1.1
+pillow-heif>=1.0
+markdown>=3.10

@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python / Streamlit
+.venv/
+__pycache__/
+*.pyc
+.env
+ai_writer/data/history.json
+ai_writer/data/images/
+
+# APIキーのテンプレート（中身はプレースホルダのみ）は共有する
+!ai_writer/.env.example
